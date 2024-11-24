@@ -13,4 +13,10 @@
   <li>Data collected using excel sheet</li>
   <li>Model made using R</li>
 </ul>
-
+<h1>Plots</h1>
+<ul>
+  <li>Boxplot</li>
+  <li><img src = "boxplot.png"></li>
+  <li>Scatter plot</li>
+  <li><img src = "scatterplot.png"></li>
+</ul>
